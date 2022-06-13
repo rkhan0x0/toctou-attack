@@ -32,3 +32,4 @@ cc symlink.c -o symlink
 
 ## References
 - [Race condition (TOCTOU) vulnerability lab](https://resources.infosecinstitute.com/topic/race-condition-toctou-vulnerability-lab/)
+- [Time of check to time of use] (https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use)

@@ -9,7 +9,7 @@ useradd attacker
 Run the following steps as root user:
 
 ```bash
-cc toctocu.c -o toctocu
+cc toctou.c -o toctou
 chmod u+s toctou
 
 cd /home/attacker

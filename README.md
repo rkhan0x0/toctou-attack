@@ -31,4 +31,4 @@ cc symlink.c -o symlink
 ```
 
 ## References
-- (Race condition (TOCTOU) vulnerability lab)[https://resources.infosecinstitute.com/topic/race-condition-toctou-vulnerability-lab/]
+- [Race condition (TOCTOU) vulnerability lab](https://resources.infosecinstitute.com/topic/race-condition-toctou-vulnerability-lab/)
